@@ -2,11 +2,13 @@
 
 Some ideas for horizontal smooth scroll layouts and animations powered by [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/).
 
-![Horizontal Smooth Scroll Layouts](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2020/12/HorizontalScroll_featured.jpg)
+![crevexia](https://user-images.githubusercontent.com/83406066/234717985-381ad455-7ca6-4df8-ad42-4aa2300be70e.png)
+![crevexia 2](https://user-images.githubusercontent.com/83406066/234717962-fe0bedfa-ac3a-424d-acb2-103c529b2f2b.png)
+![crevexia 3](https://user-images.githubusercontent.com/83406066/234717981-6e8b59d3-13e1-480e-aa80-997730119dc6.png)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=52157)
 
-[Demo](http://tympanus.net/Development/HorizontalSmoothScrollLayout/)
+https://user-images.githubusercontent.com/83406066/234718081-c341b712-d45e-43b3-bc9b-ce4bd336c02a.mp4
+
 
 
 ## Installation
@@ -29,19 +31,11 @@ Create the build:
 npm run build
 ```
 
-## Credits
 
-- Images from [Unsplash](https://unsplash.com)
-- Demo 2 images by [Nicole De Khors](https://burst.shopify.com/@ndekhors)
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart: by [Codrops](http://www.codrops.com)
 
 
 
