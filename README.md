@@ -25,6 +25,12 @@ Compile the code for development and start a local server:
 npm start
 ```
 
+Or try these command if not getting executed by above;
+
+```
+npm run dev
+```
+
 Create the build:
 
 ```
